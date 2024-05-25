@@ -1,0 +1,100 @@
+//+ Name: Synth Bass & Lead
+//+ Date: 2020-05-22
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-lead.html#BassLead
+
+<global>
+ //+ Instrument: Synth Bass & Lead
+ ampeg_release=0.1
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=21 hikey=32
+ pitch_keycenter=29
+ loop_start=64860 loop_end=205819
+ sample=samples/F1.flac
+<region>
+ lokey=33 hikey=37
+ pitch_keycenter=36
+ loop_start=66114 loop_end=206027
+ sample=samples/C2.flac
+<region>
+ lokey=38 hikey=41
+ pitch_keycenter=40
+ loop_start=103164 loop_end=213679
+ sample=samples/E2.flac
+<region>
+ lokey=42 hikey=45
+ pitch_keycenter=44
+ loop_start=81107 loop_end=168399
+ sample=samples/G#2.flac
+<region>
+ lokey=46 hikey=49
+ pitch_keycenter=48
+ loop_start=64150 loop_end=133771
+ sample=samples/C3.flac
+<region>
+ lokey=50 hikey=53
+ pitch_keycenter=52
+ loop_start=86857 loop_end=142649
+ sample=samples/E3.flac
+<region>
+ lokey=54 hikey=57
+ pitch_keycenter=56
+ loop_start=80440 loop_end=124723
+ sample=samples/G#3.flac
+<region>
+ lokey=58 hikey=61
+ pitch_keycenter=60
+ loop_start=90127 loop_end=124769
+ sample=samples/C4.flac
+<region>
+ lokey=62 hikey=65
+ pitch_keycenter=64
+ loop_start=91961 loop_end=119323
+ sample=samples/E4.flac
+<region>
+ lokey=66 hikey=69
+ pitch_keycenter=68
+ loop_start=95380 loop_end=117309
+ sample=samples/G#4.flac
+<region>
+ lokey=70 hikey=73
+ pitch_keycenter=72
+ loop_start=93620 loop_end=111025
+ sample=samples/C5.flac
+<region>
+ lokey=74 hikey=77
+ pitch_keycenter=76
+ loop_start=75108 loop_end=88922
+ sample=samples/E5.flac
+<region>
+ lokey=78 hikey=81
+ pitch_keycenter=80
+ loop_start=92704 loop_end=103721
+ sample=samples/G#5.flac
+<region>
+ lokey=82 hikey=85
+ pitch_keycenter=84
+ loop_start=73965 loop_end=82667
+ sample=samples/C6.flac
+<region>
+ lokey=86 hikey=89
+ pitch_keycenter=88
+ loop_start=86320 loop_end=93227
+ sample=samples/E6.flac
+<region>
+ lokey=90 hikey=93
+ pitch_keycenter=92
+ loop_start=68287 loop_end=73769
+ sample=samples/G#6.flac
+<region>
+ lokey=94 hikey=99
+ pitch_keycenter=96
+ loop_start=80546 loop_end=84897
+ sample=samples/C7.flac
+<region>
+ lokey=100 hikey=108
+ pitch_keycenter=104
+ loop_start=58583 loop_end=84600
+ sample=samples/G#7.flac
